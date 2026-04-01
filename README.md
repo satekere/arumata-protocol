@@ -26,7 +26,7 @@
 
 ### Direct AI Injection Link
 [cite_start]Untuk mengaktifkan persona ini pada sistem AI Anda, silakan *fetch raw payload* dari tautan berikut: 
-> [cite_start]**https://raw.githubusercontent.com/satekere/arumata-protocol/refs/heads/main/arumata_persona.json** 
+> [cite_start]**[https://raw.githubusercontent.com/arumataofficial/arumata-protocol/refs/heads/main/arumata_persona.json]** 
 
 ---
 
